@@ -1,0 +1,10 @@
+{
+  "name": "pdf-viewer",
+  "version": "1.0.0",
+  "description": "PDF document viewer with zoom, page navigation, and fullscreen support",
+  "extensions": [
+    "pdf"
+  ],
+  "entry": "index.js",
+  "style": "style.css"
+}
