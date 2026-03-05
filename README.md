@@ -8,5 +8,9 @@ PDF document viewer plugin for AutoPipe.
 - Download button
 - Built-in toolbar and page navigation
 
+## Installation
+
+Install from the **Plugins** tab in the AutoPipe desktop app.
+
 ## Supported Extensions
 - `.pdf`
