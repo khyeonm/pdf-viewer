@@ -43,6 +43,7 @@
   window.AutoPipePlugin = {
     render: function(container, fileUrl, filename) {
       _container = container;
+      _container.innerHTML = '<div class="ap-loading">Loading...</div>';
       _zoom = 100;
       render(fileUrl, filename);
     },
